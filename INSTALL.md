@@ -1,4 +1,4 @@
-# [Atom](http://lapce.dev/)
+# [Lapce](http://lapce.dev/)
 
 #### Install
 
