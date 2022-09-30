@@ -1,0 +1,7 @@
+name = "minimal-mistakes"
+display-name = "Minimal-Mistakes"
+description = "The Iconic Minimal-Mistakes Theme"
+version = "1.0.0"
+author = "Minimal-Mistakes"
+repository = "Minimal-Mistakes/lapce"
+themes = ["Minimal-Mistakes.toml"]
