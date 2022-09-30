@@ -4,7 +4,7 @@
 
 ## Install
 
-All instructions can be found at [minimalmistakes.org/atom](https://minimalmistakes.org/apps/code-editors/lapce/).
+All instructions can be found at [minimalmistakes.org/lapce](https://minimalmistakes.org/apps/code-editors/lapce/).
 
 ## Team
 
