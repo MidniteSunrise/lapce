@@ -2,6 +2,8 @@
 
 > A dark theme for [Lapce](http://lapce.dev/).
 
+![Screenshot](https://raw.githubusercontent.com/minimal-mistakes/lapce/main/screenshot.png)
+
 ## Install
 
 All instructions can be found at [minimalmistakes.org/lapce](https://minimalmistakes.org/apps/code-editors/lapce/).
